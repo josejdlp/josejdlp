@@ -7,7 +7,7 @@ Hi! I'm Jose Jiménez De la Paz, I am a graduate in computer engineering 👋
 
 📊 I mainly work with java and spring boot building microservices. Although I also collaborate with the front, programming in angular.
 
-👩🏻‍💻 As developer i had worked with:
+👩🏻‍💻 As developer i worked with:
 
 Java, Spring Boot, JPA, Oracle, Db2, Kafka, IBM Mq, Postman
 Javascript, Angular
