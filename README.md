@@ -1,16 +1,17 @@
 ### Hi there 👋
+Hi! I'm Jose Jiménez De la Paz, I am a graduate in computer engineering 👋
 
-<!--
-**josejdlp/josejdlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💪🏼 Continually learning ✨
 
-Here are some ideas to get you started:
+🌟 I am currently working on Sopra Steria with the backend developer profile 💚.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 I mainly work with java and spring boot building microservices. Although I also collaborate with the front, programming in angular.
+
+👩🏻‍💻 As developer i had worked with:
+
+        ![image](https://user-images.githubusercontent.com/8258658/138553746-94f025be-c63d-4a6d-9be6-058f108118c1.png)
+
+
+I'm @josejdlp on Twitter.
+
+   
